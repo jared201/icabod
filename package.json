@@ -1,0 +1,14 @@
+{
+  "name": "icabod",
+  "version": "1.0.0",
+  "description": "an online learning app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jared"
+  ],
+  "author": "jared",
+  "license": "ISC"
+}

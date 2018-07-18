@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "node-js-getting-started",
   "version": "0.3.0",
   "description": "A sample Node.js app using Express 4",
@@ -28,4 +29,18 @@
     "express"
   ],
   "license": "MIT"
+=======
+  "name": "icabod",
+  "version": "1.0.0",
+  "description": "an online learning app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jared"
+  ],
+  "author": "jared",
+  "license": "ISC"
+>>>>>>> 80d5c85357b52a365c1acd6f9108bbd7f993ea91
 }
